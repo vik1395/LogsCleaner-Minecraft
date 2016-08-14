@@ -1,0 +1,5 @@
+name: LogsCleaner
+main: me.vik1395.LogsCleaner.Main
+version: 1.0
+description: A Logs cleaning plugin. Wipes Logs folder on server start.
+author: Vik1395
